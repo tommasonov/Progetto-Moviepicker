@@ -1,2 +1,9 @@
-Ho sviluppato e testato il programma sulla versione 3.8.8 di python
+Ho sviluppato e testato il programma sulla versione di Python 3.9.12
 
+Il codice utilizze le librerie:
+pandas 1.4.2
+scikit-learn 1.0.2
+numpy   1.21.5
+
+Il programma ha bisogno dei dati di input scaricati e decompressi dall'indirizzo https://datasets.imdbws.com/
+In particolare servono i due file title.basics.tsv.gz e title.ratings.tsv.gz 
